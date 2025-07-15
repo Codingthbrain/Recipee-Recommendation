@@ -1,31 +1,16 @@
-# 🍲 Recipe Recommendation App
+# shanproject
 
-A Flutter mobile application that recommends recipes to users based on cuisine preferences, dietary needs, and collaborative filtering using Neo4j Aura as the graph database.
+A new Flutter project.
 
-## 🚀 Features
+## Getting Started
 
-- User login with username
-- Cuisine-type selection via app drawer
-- Displays two recommended recipes on login
-- View full recipe details
-- Backend server built with Node.js
-- Neo4j Aura for graph-based recommendation engine
+This project is a starting point for a Flutter application.
 
-## 🛠️ Tech Stack
+A few resources to get you started if this is your first Flutter project:
 
-- **Frontend:** Flutter (Dart)
-- **Backend:** Node.js with Express
-- **Database:** Neo4j Aura (Graph Database)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## 📦 Installation
-
-### Prerequisites
-
-- Flutter SDK
-- Node.js & npm
-- Git
-- Neo4j Aura account
-
-### Flutter Setup
-
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
